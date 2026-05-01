@@ -1,9 +1,11 @@
-/* Declara una variable precioUnitario (decimal), 
-una cantidad (int) y una tasaImpuesto (double, ej: 0.18 para 18%). 
-Calcula e imprime:
+/* Imagina que un cliente compra varios productos de un solo tipo, pero 
+pueden ser pocos o miles, para ello quiero que hagas una calculadora que
+le pida el precioUnitario del producto, la cantidad y la tasa impuesto
+de su región, de acuerdo ello, se tiene que calcular:
 Subtotal
 Monto del impuesto
-Total final*/
+Total final
+*/
 
 using System;
 decimal precioUnitario;
