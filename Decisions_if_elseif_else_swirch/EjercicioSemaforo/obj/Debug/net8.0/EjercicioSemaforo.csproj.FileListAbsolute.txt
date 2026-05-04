@@ -1,0 +1,15 @@
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\bin\Debug\net8.0\EjercicioSemaforo.exe
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\bin\Debug\net8.0\EjercicioSemaforo.deps.json
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\bin\Debug\net8.0\EjercicioSemaforo.runtimeconfig.json
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\bin\Debug\net8.0\EjercicioSemaforo.dll
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\bin\Debug\net8.0\EjercicioSemaforo.pdb
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\obj\Debug\net8.0\EjercicioSemaforo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\obj\Debug\net8.0\EjercicioSemaforo.AssemblyInfoInputs.cache
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\obj\Debug\net8.0\EjercicioSemaforo.AssemblyInfo.cs
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\obj\Debug\net8.0\EjercicioSemaforo.csproj.CoreCompileInputs.cache
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\obj\Debug\net8.0\EjercicioSemaforo.sourcelink.json
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\obj\Debug\net8.0\EjercicioSemaforo.dll
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\obj\Debug\net8.0\refint\EjercicioSemaforo.dll
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\obj\Debug\net8.0\EjercicioSemaforo.pdb
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\obj\Debug\net8.0\EjercicioSemaforo.genruntimeconfig.cache
+C:\Users\Intel\Documents\Learning_C#\Decisions_if_elseif_else_swirch\EjercicioSemaforo\obj\Debug\net8.0\ref\EjercicioSemaforo.dll

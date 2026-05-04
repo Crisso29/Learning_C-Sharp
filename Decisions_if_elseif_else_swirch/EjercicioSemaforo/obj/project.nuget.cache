@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fWSoHhSB4Is=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Intel\\Documents\\Learning_C#\\Decisions_if_elseif_else_swirch\\EjercicioSemaforo\\EjercicioSemaforo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Intel\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Intel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Intel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\Intel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
